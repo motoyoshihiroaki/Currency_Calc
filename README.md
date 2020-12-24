@@ -5,7 +5,7 @@
 
 ## API情報の管理
 API情報は、`.env`ファイルで管理します。\n
-`.env.sample`ファイルを参考に記述してくだしさい。\n
+ `.env.sample`ファイルを参考に記述してくだしさい。\n
 
 ### API取得元のOANDA Japan株式会社様URL
 https://www.oanda.jp/trade/practice/openaccount.do?p=0
