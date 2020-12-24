@@ -10,7 +10,6 @@ from oandapyV20.exceptions import V20Error
 
 import settings
 
-### 認証情報の管理方法を調べる
 
 def currency_calc():
     # 為替のAPI取得 OANDA
