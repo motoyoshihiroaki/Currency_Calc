@@ -4,8 +4,8 @@
 半角で数字を入力してエンターキーを押すと計算します。
 
 ## API情報の管理
-API情報は、`.env`ファイルで管理します。\n
- `.env.sample`ファイルを参考に記述してくだしさい。\n
+API情報は、`.env`ファイルで管理します。
+`.env.sample`ファイルを参考に記述してくだしさい。
 
 ### API取得元のOANDA Japan株式会社様URL
 https://www.oanda.jp/trade/practice/openaccount.do?p=0
